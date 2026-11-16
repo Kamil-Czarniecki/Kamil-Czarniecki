@@ -32,8 +32,8 @@ SOC Analyst with 4+ years of experience in security monitoring, incident investi
 
 ### SOC
 
-- soc-kql-queries
-- soc-splunk-queries
+- soc-kql-queries (Microsoft Defender XDR investigation and threat-hunting queries)
+- soc-splunk-queries (Splunk SPL queries for incident investigation)
 
 ### Offensive Security
 

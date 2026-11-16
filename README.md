@@ -2,7 +2,11 @@
 
 SOC Analyst with 4+ years of experience in security monitoring, incident investigation, and security operations.
 
-## Certifications
+🎓 Education
+
+- MSc Cyber Security (United Kingdom)
+
+🏅 Certifications
 
 - CompTIA CySA+
 - CompTIA Security+
@@ -11,37 +15,36 @@ SOC Analyst with 4+ years of experience in security monitoring, incident investi
 - CompTIA ITF+
 - LFS101: Introduction to Linux (The Linux Foundation)
 
-## Education
-
-- MSc Cyber Security (United Kingdom)
-
-## Community
+🤝 Community
 
 - BSides London Volunteer
 
-## Current Focus
+🎯 Current Focus
 
 - Web Application Security
 - Penetration Testing
-- Metasploit Framework
+- Burp Suite & Web Security Testing
 - eJPT Preparation
-- Offensive Security Labs
+- TryHackMe Labs
 - Linux Fundamentals
 
-## Featured Repositories
+📂 Featured Repositories
 
 ### SOC
+
 - soc-kql-queries
 - soc-splunk-queries
 
 ### Offensive Security
+
 - Offensive-Security-Tooling
 - Exploitation-Basics
 
-## Goals
+🚀 Career Goal
 
-Transitioning from SOC operations towards practical penetration testing and offensive security.
+Building on a strong SOC background to develop advanced skills in penetration testing, web application security, and offensive security practices.
 
-## Connect With Me
+🌐 Connect with Me
 
-LinkedIn: https://www.linkedin.com/in/kamil-czarniecki/
+- LinkedIn: https://www.linkedin.com/in/kamil-czarniecki/
+- TryHackMe: https://tryhackme.com/p/Hayabuza

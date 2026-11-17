@@ -1,6 +1,6 @@
 # Hi, I'm Kamil 👋
 
-**SOC Analyst (4+ years)** with a master's degree in Cyber Security, building on a defensive background to move into **web application security and penetration testing**.
+**SOC Analyst (4+ years)** with a master's degree in Cyber Security, building on a offensive background to move into **web application security and penetration testing**.
 
 I spend my days investigating alerts, hunting threats and responding to incidents in Splunk and Microsoft Defender XDR. In my free time I practise offensive techniques and document what I learn.
 

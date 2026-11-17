@@ -52,7 +52,7 @@ I spend my days investigating alerts, hunting threats and responding to incident
 | CompTIA IT Fundamentals (ITF+) | CompTIA |
 | LFS101: Introduction to Linux | The Linux Foundation |
 
-https://www.credly.com/users/kamil-czarniecki/edit/badges/credly
+[View my verified badges on Credly](https://www.credly.com/users/kamil-czarniecki)
 
 ## 🎓 Education
 

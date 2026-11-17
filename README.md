@@ -1,53 +1,72 @@
 # Hi, I'm Kamil 👋
 
-SOC Analyst with 4+ years of experience in security monitoring, incident investigation, and security operations.
+**SOC Analyst (4+ years)** with a master's degree in Cyber Security, building on a defensive background to move into **web application security and penetration testing**.
 
-🎓 Education
+I spend my days investigating alerts, hunting threats and responding to incidents in Splunk and Microsoft Defender XDR. In my free time I practise offensive techniques and document what I learn.
 
-- MSc Cyber Security (United Kingdom)
+---
 
-🏅 Certifications
+## 🎯 Current focus
 
-- CompTIA CySA+
-- CompTIA Security+
-- CompTIA Network+
-- CompTIA A+
-- CompTIA ITF+
-- LFS101: Introduction to Linux (The Linux Foundation)
+- Web application security and Burp Suite
+- Penetration testing methodology
+- eJPT preparation
+- TryHackMe labs and Linux fundamentals
 
-🤝 Community
+---
 
-- BSides London Volunteer
+## 📂 Featured repositories
 
-🎯 Current Focus
+### 🛡️ Defensive / SOC
 
-- Web Application Security
-- Penetration Testing
-- Burp Suite & Web Security Testing
-- eJPT Preparation
-- TryHackMe Labs
-- Linux Fundamentals
+| Repository | Description |
+|------------|-------------|
+| [SOC-Investigation-Splunk-Queries](https://github.com/Kamil-Czarniecki/SOC-Investigation-Splunk-Queries) | Splunk SPL queries for incident response, phishing investigations, authentication analysis and threat hunting |
+| [SOC-Investigation-KQL-Queries](https://github.com/Kamil-Czarniecki/SOC-Investigation-KQL-Queries) | Microsoft Defender XDR KQL queries for investigation, threat hunting and malware analysis |
 
-📂 Featured Repositories
+### ⚔️ Offensive security
 
-### SOC
+| Repository | Description |
+|------------|-------------|
+| [tryhackme-offensive-security-tooling](https://github.com/Kamil-Czarniecki/tryhackme-offensive-security-tooling) | Notes and labs: reconnaissance, Hydra, Gobuster, SQL injection and shell fundamentals |
+| [tryhackme-exploitation-basics](https://github.com/Kamil-Czarniecki/tryhackme-exploitation-basics) | Notes and labs: Metasploit fundamentals, payloads, sessions and exploitation concepts |
 
-- SOC-Investigation-KQL-Queries
-  Microsoft Defender XDR investigation and threat hunting queries
+---
 
-- SOC-Investigation-Splunk-Queries
-  Splunk SPL queries for incident response, phishing investigations, authentication analysis and threat hunting
+## 🧰 Tools and technologies
 
-### Offensive Security
+**Detection and response:** Splunk (SPL), Microsoft Defender XDR (KQL), phishing triage, threat hunting
+**Offensive:** Burp Suite, Metasploit, Hydra, Gobuster, Nmap
+**Platforms:** Linux, Windows, TryHackMe
 
-- Offensive-Security-Tooling
-- Exploitation-Basics
+---
 
-🚀 Career Goal
+## 🏅 Certifications
 
-Building on a strong SOC background to develop advanced skills in penetration testing, web application security, and offensive security practices.
+| Certification | Issuer |
+|---------------|--------|
+| CompTIA CySA+ | CompTIA |
+| CompTIA Security+ | CompTIA |
+| CompTIA Network+ | CompTIA |
+| CompTIA A+ | CompTIA |
+| CompTIA IT Fundamentals (ITF+) | CompTIA |
+| LFS101: Introduction to Linux | The Linux Foundation |
 
-🌐 Connect with Me
+https://www.credly.com/users/kamil-czarniecki/edit/badges/credly
 
-- LinkedIn: https://www.linkedin.com/in/kamil-czarniecki/
-- TryHackMe: https://tryhackme.com/p/Hayabuza
+## 🎓 Education
+
+- MSc Cyber Security, United Kingdom
+
+## 🤝 Community
+
+- Volunteer at **BSides London**
+
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kamil--czarniecki-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-czarniecki/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Hayabuza-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Hayabuza)
+
+> All content in my repositories is based on public knowledge, labs and anonymised examples. No employer or customer data is published.

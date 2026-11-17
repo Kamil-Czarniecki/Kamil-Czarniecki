@@ -52,7 +52,6 @@ I spend my days investigating alerts, hunting threats and responding to incident
 | CompTIA IT Fundamentals (ITF+) | CompTIA |
 | LFS101: Introduction to Linux | The Linux Foundation |
 
-[View my verified badges on Credly](https://www.credly.com/users/kamil-czarniecki)
 
 ## 🎓 Education
 
@@ -68,5 +67,6 @@ I spend my days investigating alerts, hunting threats and responding to incident
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kamil--czarniecki-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-czarniecki/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Hayabuza-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Hayabuza)
+[![Credly](https://img.shields.io/badge/Credly-Verified%20Badges-FF6B00?logo=credly&logoColor=white)](https://www.credly.com/users/kamil-czarniecki)
 
 > All content in my repositories is based on public knowledge, labs and anonymised examples. No employer or customer data is published.
